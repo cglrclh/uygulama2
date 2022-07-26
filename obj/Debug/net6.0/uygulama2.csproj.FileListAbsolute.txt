@@ -1,0 +1,15 @@
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\obj\Debug\net6.0\uygulama2.csproj.AssemblyReference.cache
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\obj\Debug\net6.0\uygulama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\obj\Debug\net6.0\uygulama2.AssemblyInfoInputs.cache
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\obj\Debug\net6.0\uygulama2.AssemblyInfo.cs
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\obj\Debug\net6.0\uygulama2.csproj.CoreCompileInputs.cache
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\bin\Debug\net6.0\uygulama2.exe
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\bin\Debug\net6.0\uygulama2.deps.json
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\bin\Debug\net6.0\uygulama2.runtimeconfig.json
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\bin\Debug\net6.0\uygulama2.dll
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\bin\Debug\net6.0\uygulama2.pdb
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\obj\Debug\net6.0\uygulama2.dll
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\obj\Debug\net6.0\refint\uygulama2.dll
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\obj\Debug\net6.0\uygulama2.pdb
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\obj\Debug\net6.0\uygulama2.genruntimeconfig.cache
+C:\Users\cglrc\OneDrive\Masaüstü\pratikler\uygulama2\obj\Debug\net6.0\ref\uygulama2.dll
